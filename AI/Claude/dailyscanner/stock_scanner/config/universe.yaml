@@ -1,0 +1,56 @@
+# Stock Scanner Universe Configuration
+
+market_benchmarks:
+  - SPY
+  - QQQ
+
+categories:
+  semiconductors:
+    benchmark: SMH
+    symbols:
+      - NVDA
+      - AMD
+      - AVGO
+      - MU
+      - INTC
+      - TSM
+
+  technology:
+    benchmark: QQQ
+    symbols:
+      - AAPL
+      - MSFT
+      - GOOGL
+      - AMZN
+      - META
+      - NVDA
+      - TSLA
+
+  energy:
+    benchmark: XLE
+    symbols:
+      - XOM
+      - CVX
+      - COP
+      - SLB
+      - EOG
+      - OXY
+
+  financials:
+    benchmark: XLF
+    symbols:
+      - JPM
+      - BAC
+      - WFC
+      - C
+      - GS
+      - MS
+
+  small_caps:
+    benchmark: IWM
+    symbols:
+      - IWM
+      - ARKK
+      - TNA
+      - SQQQ
+      - IWM

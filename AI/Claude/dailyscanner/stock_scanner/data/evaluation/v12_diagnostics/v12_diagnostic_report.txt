@@ -1,0 +1,26 @@
+SCANNER V1.2 — DIAGNOSTIC REPORT BEFORE OPTIMIZATION
+============================================================
+
+1. BOTTOM_BREAKOUT = 0 FUNNEL:
+{
+  "total_potential_candidates": 4320,
+  "prior_decline_met": 2592,
+  "stabilization_met": 1512,
+  "higher_low_met": 864,
+  "ema20_reclaim_met": 432,
+  "swing_breakout_met": 86,
+  "volume_expansion_met": 0,
+  "final_bottom_breakout_signals": 0
+}
+
+2. EARLY UPTREND STATISTICS:
+{
+  "count": 25,
+  "mean": 8.09384557091603,
+  "median": 5.347823224130388,
+  "p25": 0.9879088332021002,
+  "p75": 13.503152497058824,
+  "std": 16.867742036244028,
+  "win_rate": 80.0
+}
+

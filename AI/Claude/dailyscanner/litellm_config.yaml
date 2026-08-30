@@ -1,0 +1,11 @@
+model_list:
+  # This intercepts any request Claude Code attempts to make
+  - model_name: sonnet-5 # This tells Claude Code what model it is talking to
+    litellm_params:
+      model: gemini/gemini-3.5-flash-lite       # This is your actual Google AI Studio model
+      api_key: "AQ.Ab8RN6KVZdSUWzMA8Eo1V0_zEHQJi_UpdYxZNEq5Rp7acZXBig" 
+      rpm: 15 
+
+litellm_settings:
+  # Crucial for Claude Code to strip out incompatible parameter schemas
+  drop_params: true 

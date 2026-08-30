@@ -1,0 +1,4 @@
+market_regime,state,count,avg_fwd_20d
+Broad Uptrend,REVERSAL,60,6.2
+Broad Downtrend,REVERSAL,44,2.9
+Market Correction / Rebound,BOTTOM_FORMING,30,2.0
