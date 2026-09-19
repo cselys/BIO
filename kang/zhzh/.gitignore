@@ -1,0 +1,7 @@
+split_gem/
+results/
+__pycache__/
+*.gem
+*.tif
+*.csv
+*.ipynb
